@@ -14,3 +14,16 @@ header a {
   font-size: 16px;
   color: aquamarine;
 }
+
+.content h2 {
+  color: white;
+  font-weight: 300px;
+  font-size: 42px;
+  font-family: 'Verdana' serif;
+}
+
+.content p {
+  color: grey;
+  font-size: 21px;
+  font-family: 'Verdana' serif;
+}
