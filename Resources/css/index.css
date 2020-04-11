@@ -27,3 +27,8 @@ header a, .link a {
   font-size: 21px;
   font-family: 'Verdana';
 }
+
+footer p {
+  color: grey;
+  text-align: right;
+}
